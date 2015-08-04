@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sophia.lu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-017a70030c9281b5a684a4388fa2465038f738fc.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-4062af1ee5f5842ba0d36845b1ff2682f9c8e875.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-445771a124590c189ffaefd803f54f9c3dee498c.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-c609aaeb5978f101fc2af1ee82fd2e5682fb6f81.jar" />
+    </item>
+
+</items>

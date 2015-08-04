@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#ffdfeaf1">
+
+    <TextView android:text="@string/app_title" android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:textSize="22sp"
+        android:textIsSelectable="false"
+        android:textColor="#ff000030"
+        android:gravity="center"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="40dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/spotify_streamer"
+        android:id="@+id/streamer_btn"
+        android:textColor="@color/black"
+        android:background="@color/orange"
+        android:onClick="showToast"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/super_duo"
+        android:id="@+id/super_duo_btn"
+        android:textColor="@color/black"
+        android:background="@color/orange"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="showToast"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/build_it_bigger"
+        android:id="@+id/build_bigger_btn"
+        android:textColor="@color/black"
+        android:background="@color/orange"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="showToast"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xyz_reader"
+        android:id="@+id/xyz_reader_btn"
+        android:textColor="@color/black"
+        android:background="@color/orange"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="showToast"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/capstone"
+        android:id="@+id/capstone_btn"
+        android:textColor="@color/white"
+        android:background="@color/hot_pink"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:onClick="showToast"
+        />
+
+</LinearLayout>
